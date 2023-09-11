@@ -19,3 +19,5 @@ branch2
 sdafafgea
 
 asdq3eqw3
+
+Добрый день! Это ДЗ №3. 
